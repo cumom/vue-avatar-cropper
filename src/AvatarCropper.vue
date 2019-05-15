@@ -107,8 +107,8 @@ export default {
       type: Object,
       default() {
         return {
-          submit: '提交',
-          cancel: '取消'
+          submit: 'Submit',
+          cancel: 'Cancel'
         }
       }
     }
